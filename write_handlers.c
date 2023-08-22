@@ -2,7 +2,7 @@
 
 /**
  * handle_write_char - Function prints a string
- * by Israel and Adedayo
+ * by ange and Olorunleke 
  * @c: char types
  * @buffer: Buffer array to handle print
  * @flags:  checks the active flags
