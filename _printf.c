@@ -3,7 +3,7 @@
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
- * _printf - function implements original printf
+ * _printf - Function implements original printf
  * @format: format specifiers input
  * by Israel and Dayo
  * Return: Printed chars str and %
