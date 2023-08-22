@@ -2,7 +2,7 @@
 
 /**
  * print_unsigned - Function Prints an unsigned number
- * by Israel and Dayo
+ * by Ange and Olorunleke 
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
