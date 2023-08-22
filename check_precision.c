@@ -5,7 +5,7 @@
  * by Israel and sheckar
  * @format: Formatted string in which to print the arguments
  * @i: List of arguments to output
- * @list: set of arguments
+ * @list: list of arguments
  *
  * Return: Precision
  */
