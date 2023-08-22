@@ -3,7 +3,7 @@
 /**
  * get_width - gets the width to print
  * @format: Formatted string in which to print the arguments
- * @i: arguments to be printed
+ * @i: list of arguments to be printed
  * @list: list of arguments provided
  * Return: width
  */
